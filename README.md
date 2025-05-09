@@ -10,4 +10,4 @@ Exemplos de uso de um README:
 ---
 Pula a linha
 
-Segundo conflito
+Conflito resolvido.
